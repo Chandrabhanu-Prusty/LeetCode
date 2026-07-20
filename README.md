@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0457-circular-array-loop) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +48,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0457-circular-array-loop) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
