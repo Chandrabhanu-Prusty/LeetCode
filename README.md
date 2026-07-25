@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
