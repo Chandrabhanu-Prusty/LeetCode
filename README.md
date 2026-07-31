@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Rolling Hash
 |  |
 | ------- |
