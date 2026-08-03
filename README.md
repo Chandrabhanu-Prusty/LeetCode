@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0457-circular-array-loop) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Rolling Hash
