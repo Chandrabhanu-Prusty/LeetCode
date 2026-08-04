@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0457-circular-array-loop) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -124,4 +126,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
