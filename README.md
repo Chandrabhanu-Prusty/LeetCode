@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0457-circular-array-loop) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Matrix
 |  |
 | ------- |
