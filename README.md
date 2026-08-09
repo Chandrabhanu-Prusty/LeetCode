@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3169-count-days-without-meetings](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/3169-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3169-count-days-without-meetings](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/3169-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
