@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3169-count-days-without-meetings](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/3169-count-days-without-meetings) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -170,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0986-interval-list-intersections) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chandrabhanu-Prusty/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
