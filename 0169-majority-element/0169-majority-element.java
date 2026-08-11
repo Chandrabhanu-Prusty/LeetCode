@@ -1,7 +1,8 @@
 class Solution {
     public int majorityElement(int[] nums) {
         HashMap<Integer, Integer> map = new HashMap<>();
-        int max = 1;
+        int maxCount = 0;
+        int maxKey = nums[0];
 
         for(int i =0; i<nums.length; i++){
             if(map.containsKey(nums[i])){
@@ -10,8 +11,12 @@ class Solution {
                 map.put(nums[i], 1);
             }
 
-            max = Collections.max(map.entrySet(), Map.Entry.comparingByValue()).getKey();
+            if (map.get(nums[i]) > maxCount) {
+                maxCount = map.get(nums[i]); // Update highest count
+                maxKey = nums[i];            // Save the key
+            }
+
         }
-        return max;
+        return maxKey;
     }
 }
