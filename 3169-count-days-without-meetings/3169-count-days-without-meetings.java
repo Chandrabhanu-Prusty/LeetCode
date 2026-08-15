@@ -6,6 +6,7 @@ class Solution {
         //make sure calculate the start gap and end gap as well
         Arrays.sort(meetings, Comparator.comparingInt(a -> a[0]));
 
+        int meetingDays = 0;
         List<int[]> res = new ArrayList<>();
 
         res.add(meetings[0]);
@@ -24,12 +25,10 @@ class Solution {
         }
 
         int gap=0;
-        for(int i=1; i<res.size(); i++){
-            gap = gap + (res.get(i)[0] - res.get(i-1)[1]-1);
+        for(int i=0; i<res.size(); i++){
+            meetingDays = meetingDays + res.get(i)[1] - res.get(i)[0] + 1;
         }
-        gap = gap + res.get(0)[0] -1;
-        gap = gap + days - res.get(res.size() -1)[1];
 
-        return gap;
+        return days - meetingDays;
     }
 }
