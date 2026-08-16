@@ -1,0 +1,47 @@
+class Solution {
+    public int[][] insert(int[][] intervals, int[] newInterval) {
+        // insert position....keep insering intervas in the res
+        // while overlapping.... update newInterval
+        // no overlapping... insert newInterval into res
+        // insert remaning intervals in the res
+
+        int i = 0;
+        List<int[]> res = new ArrayList<>();
+
+        while(i < intervals.length && newInterval[0] > intervals[i][1]){
+            res.add(intervals[i]);
+            i++;
+        }
+
+        // intervals[i][0] - s1
+        // intervals[i][1] - e1
+        // newInterval[0] - s2
+        // newInterval[1] - e2
+
+        // overlap: e1 >= s2 && e2 >= s1
+        // formula: (intervals[i][1] >= newInterval[0]) && (newInterval[1] >=  intervals[i][0])
+
+        while(i<intervals.length && (intervals[i][1] >= newInterval[0] && newInterval[1] >=  intervals[i][0])){
+            ///update new interval
+            newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
+            newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
+
+            i++;
+        }
+
+        res.add(newInterval);
+
+        while(i<intervals.length){
+            res.add(intervals[i]);
+            i++;
+        }
+
+        int[][] ans = new int[res.size()][2];
+
+        for(int j = 0; j < res.size(); j++){
+            ans[j] = res.get(j);
+        }
+
+        return ans;
+    }
+}
